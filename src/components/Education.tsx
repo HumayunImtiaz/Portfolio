@@ -19,7 +19,7 @@ const Education = () => {
             title="BS Software Engineer"
             subTitle="Khwaja Fareed University Of Engineering & Information Technology"
             result="CGPA 3.51/4"
-            des="I completed a robust Software Engineering degree focus on Software Development Life Cycle"
+            des="I completed a robust Software Engineering degree focus on Software Development Life Cycle."
           />
           <ResumeCard
             title="FSC Pre-Engineering"
