@@ -1,8 +1,8 @@
 {
-  "homepage": "https://humayunimtiaz.github.io/Portfolio/"
+   "homepage": "https://humayunimtiaz.github.io",
   "name": "freeportfolio-one",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0"
   "type": "module",
   "scripts": {
     "dev": "vite",
